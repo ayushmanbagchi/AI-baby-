@@ -1,0 +1,22 @@
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: aquamarine;
+   color: chocolate;
+}
+
+#status {
+    font-size: 18px;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 30px;
+}
